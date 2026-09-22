@@ -1,4 +1,4 @@
-* {
+⁵* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -138,17 +138,5 @@ header {
     button {
         margin: 0 auto;
         display: block;
-    }
-}
-
-@media screen and (max-width: 370px){
-    .container-left {
-        height: 55%;
-    }
-}
-
-@media screen and (max-width: 330px){
-    .container-left {
-        height: 70%;
     }
 }
